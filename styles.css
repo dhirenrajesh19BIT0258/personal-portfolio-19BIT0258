@@ -1,0 +1,111 @@
+body
+{
+  margin: 0;
+  text-align: center;
+}
+p
+{
+  line-height: 2;
+  font-family: 'Comic Neue',sans-serif;
+}
+h1
+{
+  margin: 50px auto 0 auto;
+  font-family: 'Righteous',sans-serif;
+  font-size: 3rem;
+  color:#45b29a;
+  font-weight: lighter;
+}
+h2,h3
+{
+  font-family: 'Comic Neue',sans-serif;
+  margin-top: 10px;
+  color:#45b29a;
+  padding-bottom: 15px;
+}
+.top-container
+{
+  background-color: #d3e9e3;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.top-cloud
+{
+  position: absolute;
+  top: 30px;
+  right:300px;
+}
+.dp
+{
+  border-radius: 80%;
+  margin-top: 10px;
+  height: 200px;
+}
+.code
+{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.ball
+{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+.soccer
+{
+  width:25%;
+  float: right;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 20px auto 20px auto;
+  text-align: left;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-container
+{
+  background-color:#d3e9e3;
+  padding: 20px 0 20px;
+}
+a
+{
+  color: #45b29a;
+  font-family: 'Comic Neue',sans-serif;
+  text-decoration: none;
+  margin: 10px;
+}
+a:hover
+{
+  color: white;
+}
+
+.copyright
+{
+  color: #00bdaa;
+  font-family: 'Comic Neue',sans-serif;
+  font-size: 1rem;
+  padding-top: 5px;
+}
